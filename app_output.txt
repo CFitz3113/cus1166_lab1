@@ -1,0 +1,21 @@
+Name: Billy, grade: 90
+
+Name: Jimmy, grade: 92
+
+Name: Claude, grade: 94
+
+Name: Dimitri, grade: 88
+
+Name: Dorothea, grade: 76
+
+Name: Petra, grade: 96
+
+Name: Felix, grade: 100
+
+Name: Raphael, grade: 75
+
+Name: Lorenz, grade: 95
+
+Name: Hilda, grade: 79
+
+Average grade: 88.50
